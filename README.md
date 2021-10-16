@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Epix
+- 🌱 I’m currently learning Programming/Scripting in unity.
+- 📫 How to reach me? Discord: JustEpix#2401 Instagram: Just_Epix_
